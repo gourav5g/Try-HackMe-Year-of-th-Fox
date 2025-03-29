@@ -1,8 +1,5 @@
 # Year of the Fox
 
-Don't underestimate the sly old fox... This room includes a competition with over $4,000 worth of prizes to celebrate TryHackMe hitting 100k members!
-
-[Year of the Fox](https://tryhackme.com/room/yotf)
 
 ## Topic's
 
