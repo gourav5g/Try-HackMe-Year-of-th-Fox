@@ -15,10 +15,6 @@ Don't underestimate the sly old fox... This room includes a competition with ove
 - Brute Force (SSH)
 - Misconfigured Binaries
 
-## Appendix archive
-
-Password: `1 kn0w 1 5h0uldn'7!`
-
 ## Task 2 Hack the machine and obtain the flags
 
 Can you get past the wily fox?
